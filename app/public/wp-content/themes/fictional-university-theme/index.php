@@ -1,9 +1,8 @@
-</php
-  function myFirstFunction() {
-    echo 2+2;
+<?php
+  function greet($name, $color) {
+    echo "<p>Hi, my name is $name and my favorite color is $color.</P>";
   }
 
-  myFirstFunction();
-  myFirstFunction();
-  
+  greet('John', 'green');
+  greet('Jane', 'black');
 ?>
