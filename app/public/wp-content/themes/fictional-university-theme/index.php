@@ -4,7 +4,9 @@ This is our completely amazing custom theme.
 
     while(have_posts()) {
         the_post(); ?>
-        <h2>hello</h2>
+        <h2> <?php the_title();?></h2>
+        <?php the_content()?>
+        <hr></hr>
         <?php    }
 
 ?>
