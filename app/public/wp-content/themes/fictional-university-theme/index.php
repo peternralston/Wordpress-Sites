@@ -1,10 +1,7 @@
-<?php 
-   $names=array('Brad','John','Jane','Meawsalot');
+This is our completely amazing custom theme.
 
-   $count = 0;
-
-    while ($count <= 100) {
-        echo "<li>Hi, my name is $names[$count] </li>";
-        $count++;
+<?php
+    while() {
+        
     }
 ?>
