@@ -6,8 +6,6 @@
 
     <body>
         <h1>Fictional Univeristy</h1> 
-    </body>
-</html>
 
 
     
