@@ -17,3 +17,5 @@ Stack trace:
 #4 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\index.php(17): require('C:\\Users\\SysOp\\...')
 #5 {main}
   thrown in C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-content\themes\fictional-university-theme\functions.php on line 7
+[07-Sep-2022 16:07:18 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[07-Sep-2022 16:07:18 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
