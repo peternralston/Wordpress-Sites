@@ -1,0 +1,1 @@
+2022/09/06 20:19:43 [error] 18244#3384: *3 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/user/ HTTP/1.0", upstream: "fastcgi://127.0.0.1:10009", host: "wordpress-sites.local"

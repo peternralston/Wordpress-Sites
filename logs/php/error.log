@@ -1,0 +1,19 @@
+[02-Sep-2022 20:05:44 UTC] PHP Parse error:  syntax error, unexpected '_title' (T_STRING) in C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-content\themes\fictional-university-theme\index.php on line 7
+[06-Sep-2022 18:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actions() in C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-content\themes\fictional-university-theme\functions.php:7
+Stack trace:
+#0 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-settings.php(566): include()
+#1 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-config.php(91): require_once('C:\\Users\\SysOp\\...')
+#2 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-load.php(50): require_once('C:\\Users\\SysOp\\...')
+#3 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-blog-header.php(13): require_once('C:\\Users\\SysOp\\...')
+#4 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\index.php(17): require('C:\\Users\\SysOp\\...')
+#5 {main}
+  thrown in C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-content\themes\fictional-university-theme\functions.php on line 7
+[06-Sep-2022 18:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_actions() in C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-content\themes\fictional-university-theme\functions.php:7
+Stack trace:
+#0 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-settings.php(566): include()
+#1 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-config.php(91): require_once('C:\\Users\\SysOp\\...')
+#2 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-load.php(50): require_once('C:\\Users\\SysOp\\...')
+#3 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-blog-header.php(13): require_once('C:\\Users\\SysOp\\...')
+#4 C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\index.php(17): require('C:\\Users\\SysOp\\...')
+#5 {main}
+  thrown in C:\Users\SysOp\Local Sites\Wordpress-Sites\app\public\wp-content\themes\fictional-university-theme\functions.php on line 7
