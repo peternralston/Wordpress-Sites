@@ -1,4 +1,4 @@
-<p>Greetings from Footer.php</p>
+
 
     <footer class="site-footer">
       <div class="site-footer__inner container container--narrow">
